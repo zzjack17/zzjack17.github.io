@@ -32,7 +32,7 @@ github_username:  zzjack17
 author:
   name: Yu Zhang
   email: zzhangyujack@gmail.com
-
+theme : minimal-mistakes-jekyll
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
