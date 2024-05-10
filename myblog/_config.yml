@@ -24,6 +24,8 @@ navigation:
     url: /about.markdown
   - title: "我的作业"
     url: /assignment/
+  - title: "test"
+    url: /index.html
 
 # Exclude from processing.
 # The following items will not be processed, by default.
