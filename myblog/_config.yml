@@ -17,22 +17,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+navigation:
+  - title: "首页"
+    url: https://zzjack17.github.io/
+  - title: "关于我"
+    url: /about.markdown
+  - title: "我的作业"
+    url: /assignment/
 
-title: Your awesome title
-email: zzhangyujack@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://zzjack17.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  zzjack17
-
-# Build settings
-author:
-  name: Yu Zhang
-  email: zzhangyujack@gmail.com
-theme : minimal-mistakes-jekyll
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
