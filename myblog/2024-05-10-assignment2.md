@@ -5,4 +5,4 @@ date: 2024-05-10
 permalink: /assignment2/
 ---
 
-this is assignment 2
+# <center>Assignmen2</center>
