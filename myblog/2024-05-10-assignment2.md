@@ -19,9 +19,9 @@ Among all these data, this webpage will focus on the development trends of two c
 
 The first question to think about is: If I want to travel within a day, when is the most likely time to encounter these two crimes? The 24-hour cycle chart can give us a good answer. The following are the figures.
 
-<center>![24-hour Cycle of DRUG/NARCOTIC Crimes](/images/crimepic1.jpg)</center>
+![24-hour Cycle of DRUG/NARCOTIC Crimes](/images/crimepic1.jpg)
 
-<center>![24-hour Cycle of DRUNKENNESS Crimes](/images/crimepic2.jpg)</center>
+![24-hour Cycle of DRUNKENNESS Crimes](/images/crimepic2.jpg)
 
 
 It can be seen from the figure that the peak hours of the two crimes are slightly different - in the afternoon when there are crowds of people, you may need to worry about strange pedestrians on the street, who may be looking for potential drug transactions. And late at night, it's a paradise for drunkenness and crime. Alcohol, a central nervous system depressant, not only reduces people's self-restraint, but also affects people's cognitive function and decision-making ability, resulting in the inability to correctly evaluate situations and consequences, and thus dangerous or inappropriate choices may be made. Be careful!
@@ -30,10 +30,11 @@ It can be seen from the figure that the peak hours of the two crimes are slightl
 
 Here is the crime map information! Among the many neighborhoods in San Francisco, there are always some "notorious" streets that need to be paid attention to or avoided. A crime map can help you do this. From the pictures, we can find that you need to be extra careful when passing by Tenderloin, as turmoil may happen around you in the next second. If you accidentally step into the territory, don’t take it lightly.
 
-<center>![24-hour Cycle of DRUNKENNESS Crimes](/images/crimemap.png)</center>
+![24-hour Cycle of DRUNKENNESS Crimes](/images/crimemap.png)
+
 
 
 ### San Francisco, no longer a crime capital?
 Contrary to many people's impressions, at least in the past decade or so, San Francisco's security has made significant improvements in dealing with these two crimes. The bokeh chart below can clearly reflect this - just move the mouse cursor slightly along the time line on the picture, and you will find a clear downward trend. Can it be said that even though there are still "dangerous" neighborhoods that require more vigilance, San Francisco has achieved outstanding success in combating these two crimes?
 
-<center>[View Monthly Crime Chart](/images/crimetrends.html)</center>
+[View Monthly Crime Chart](/images/crimetrends.html)
