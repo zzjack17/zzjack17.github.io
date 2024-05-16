@@ -38,5 +38,5 @@ Here is the crime map information! Among the many neighborhoods in San Francisco
 Contrary to many people's impressions, at least in the past decade or so, San Francisco's security has made significant improvements in dealing with these two crimes. The bokeh chart below can clearly reflect this - just move the mouse cursor slightly along the time line on the picture, and you will find a clear downward trend. Can it be said that even though there are still "dangerous" neighborhoods that require more vigilance, San Francisco has achieved outstanding success in combating these two crimes?
 
 
-<iframe src="/images/crimetrends.html" style="width:100%; height:600px;" frameborder="0"></iframe>
+<iframe src="/myblog/images/crimetrends.html" style="width:100%; height:600px;" frameborder="0"></iframe>
     
