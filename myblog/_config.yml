@@ -1,5 +1,2 @@
-title: zzjack17's Site
-description: Personal website for assignments and projects
-baseurl: ""
-url: "https://zzjack17.github.io"
+markdown: kramdown
 theme: minima
